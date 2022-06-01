@@ -34,4 +34,4 @@ var humanYearsCatYearsDogYears = function (humanYears) {
     return [humanYears, catYears, dogYears];
 }
 
-console.log(humanYearsCatYearsDogYears(10))
+// console.log(humanYearsCatYearsDogYears(10))
